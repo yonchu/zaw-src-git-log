@@ -27,3 +27,8 @@ Select two commit from git log:
 ![usage03](https://raw.github.com/yonchu/zaw-src-git-log/master/img/usage03.png)
 
 ![usage04](https://raw.github.com/yonchu/zaw-src-git-log/master/img/usage04.png)
+
+See also
+------------
+
+[git logからコミットハッシュを取得するzawソース #Zsh #git - Qiita](http://qiita.com/items/296ba1e82ab12f397df9)
