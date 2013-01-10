@@ -2,7 +2,6 @@
 # zaw-src-git-log
 #
 #   zaw source for git log.
-#   https://gist.github.com/4350604
 #
 #   zaw : https://github.com/nakamuray/zaw
 #
